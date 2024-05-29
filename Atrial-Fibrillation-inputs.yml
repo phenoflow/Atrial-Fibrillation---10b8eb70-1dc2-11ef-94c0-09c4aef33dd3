@@ -1,0 +1,381 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/atrial-fibrillation-flutter---primary.py
+inputModule3:
+  class: File
+  path: python/atrial-fibrillation-ablat---primary.py
+inputModule4:
+  class: File
+  path: python/fibrillation---primary.py
+inputModule5:
+  class: File
+  path: python/atrial-fibrillation---primary.py
+inputModule6:
+  class: File
+  path: python/atrial-fibrillation-venosus---primary.py
+inputModule7:
+  class: File
+  path: python/atrial-fibrillation-connect---primary.py
+inputModule8:
+  class: File
+  path: python/persistent-atrial-fibrillation---primary.py
+inputModule9:
+  class: File
+  path: python/atrial-fibrillation-valvectomy---primary.py
+inputModule10:
+  class: File
+  path: python/recipient-atrial-fibrillation---primary.py
+inputModule11:
+  class: File
+  path: python/atrial-fibrillation-blame---primary.py
+inputModule12:
+  class: File
+  path: python/atrial-fibrillation-starr---primary.py
+inputModule13:
+  class: File
+  path: python/atrial-fibrillation-suspected---primary.py
+inputModule14:
+  class: File
+  path: python/atrial-fibrillation-related---primary.py
+inputModule15:
+  class: File
+  path: python/atrial-fibrillation-phlebitis---primary.py
+inputModule16:
+  class: File
+  path: python/atrial-fibrillation-thrombosis---primary.py
+inputModule17:
+  class: File
+  path: python/personal-atrial-fibrillation---primary.py
+inputModule18:
+  class: File
+  path: python/femoral-atrial-fibrillation---primary.py
+inputModule19:
+  class: File
+  path: python/aortopulmonary-atrial-fibrillation---primary.py
+inputModule20:
+  class: File
+  path: python/atrial-fibrillation-delivered---primary.py
+inputModule21:
+  class: File
+  path: python/atrial-fibrillation-fluid---primary.py
+inputModule22:
+  class: File
+  path: python/atrioventric-atrial-fibrillation---primary.py
+inputModule23:
+  class: File
+  path: python/atrial-fibrillation-conversion---primary.py
+inputModule24:
+  class: File
+  path: python/atrial-fibrillation-cardioversion---primary.py
+inputModule25:
+  class: File
+  path: python/atrial-fibrillation-pacemaker---primary.py
+inputModule26:
+  class: File
+  path: python/atrial-fibrillation-electrode---primary.py
+inputModule27:
+  class: File
+  path: python/current-atrial-fibrillation---primary.py
+inputModule28:
+  class: File
+  path: python/atrial-fibrillation-defibrillation---primary.py
+inputModule29:
+  class: File
+  path: python/atrial-fibrillation-translum---primary.py
+inputModule30:
+  class: File
+  path: python/atrial-fibrillation-stimulation---primary.py
+inputModule31:
+  class: File
+  path: python/subaortic-atrial-fibrillation---primary.py
+inputModule32:
+  class: File
+  path: python/atrial-fibrillation-homograft---primary.py
+inputModule33:
+  class: File
+  path: python/endocardial-atrial-fibrillation---primary.py
+inputModule34:
+  class: File
+  path: python/arterial-atrial-fibrillation---primary.py
+inputModule35:
+  class: File
+  path: python/atrial-fibrillation-defects---primary.py
+inputModule36:
+  class: File
+  path: python/atrial-fibrillation-cardiac---primary.py
+inputModule37:
+  class: File
+  path: python/atrial-fibrillation-xenotransplantation---primary.py
+inputModule38:
+  class: File
+  path: python/atrial-fibrillation-ventriculectomy---primary.py
+inputModule39:
+  class: File
+  path: python/atrial-fibrillation-three---primary.py
+inputModule40:
+  class: File
+  path: python/atrial-fibrillation-operation---primary.py
+inputModule41:
+  class: File
+  path: python/atrial-fibrillation-surgery---primary.py
+inputModule42:
+  class: File
+  path: python/atrial-fibrillation-ligation---primary.py
+inputModule43:
+  class: File
+  path: python/atrial-fibrillation-incision---primary.py
+inputModule44:
+  class: File
+  path: python/atrial-fibrillation-pathway---primary.py
+inputModule45:
+  class: File
+  path: python/atrial-fibrillation-thrombus---primary.py
+inputModule46:
+  class: File
+  path: python/atrial-fibrillation-unspecified---primary.py
+inputModule47:
+  class: File
+  path: python/atrial-fibrillation-close---primary.py
+inputModule48:
+  class: File
+  path: python/atrial-fibrillation-autograft---primary.py
+inputModule49:
+  class: File
+  path: python/hypoplastic-atrial-fibrillation---primary.py
+inputModule50:
+  class: File
+  path: python/atrial-fibrillation-bypass---primary.py
+inputModule51:
+  class: File
+  path: python/single-atrial-fibrillation---primary.py
+inputModule52:
+  class: File
+  path: python/atrial-fibrillation-fallottype---primary.py
+inputModule53:
+  class: File
+  path: python/atrial-fibrillation-pericardium---primary.py
+inputModule54:
+  class: File
+  path: python/prosthetic-atrial-fibrillation---primary.py
+inputModule55:
+  class: File
+  path: python/atrial-fibrillation-ventr---primary.py
+inputModule56:
+  class: File
+  path: python/atrial-fibrillation-graft---primary.py
+inputModule57:
+  class: File
+  path: python/atrial-fibrillation-aneurysm---primary.py
+inputModule58:
+  class: File
+  path: python/atrial-fibrillation-valve---primary.py
+inputModule59:
+  class: File
+  path: python/atrial-fibrillation-septum---primary.py
+inputModule60:
+  class: File
+  path: python/atrial-fibrillation-bjorkshiley---primary.py
+inputModule61:
+  class: File
+  path: python/cardiothoracic-atrial-fibrillation---primary.py
+inputModule62:
+  class: File
+  path: python/atrial-fibrillation-transpo---primary.py
+inputModule63:
+  class: File
+  path: python/atrial-fibrillation-rupture---primary.py
+inputModule64:
+  class: File
+  path: python/atrial-fibrillation-valved---primary.py
+inputModule65:
+  class: File
+  path: python/atrial-fibrillation-artery---primary.py
+inputModule66:
+  class: File
+  path: python/atrial-fibrillation-anastomosis---primary.py
+inputModule67:
+  class: File
+  path: python/epicardial-atrial-fibrillation---primary.py
+inputModule68:
+  class: File
+  path: python/atrial-fibrillation-injury---primary.py
+inputModule69:
+  class: File
+  path: python/atrial-fibrillation-atrium---primary.py
+inputModule70:
+  class: File
+  path: python/atrial-fibrillation-refashioning---primary.py
+inputModule71:
+  class: File
+  path: python/atrial-fibrillation-vegetation---primary.py
+inputModule72:
+  class: File
+  path: python/papillary-atrial-fibrillation---primary.py
+inputModule73:
+  class: File
+  path: python/atrial-fibrillation-valvotomy---primary.py
+inputModule74:
+  class: File
+  path: python/atrial-fibrillation-septostomy---primary.py
+inputModule75:
+  class: File
+  path: python/atrial-fibrillation-massage---primary.py
+inputModule76:
+  class: File
+  path: python/supraaortic-atrial-fibrillation---primary.py
+inputModule77:
+  class: File
+  path: python/atrial-fibrillation-implant---primary.py
+inputModule78:
+  class: File
+  path: python/atrial-fibrillation-tumour---primary.py
+inputModule79:
+  class: File
+  path: python/primum-atrial-fibrillation---primary.py
+inputModule80:
+  class: File
+  path: python/atrial-fibrillation-septectomy---primary.py
+inputModule81:
+  class: File
+  path: python/atrial-fibrillation-conduct---primary.py
+inputModule82:
+  class: File
+  path: python/biventricular-atrial-fibrillation---primary.py
+inputModule83:
+  class: File
+  path: python/angioplasty-atrial-fibrillation---primary.py
+inputModule84:
+  class: File
+  path: python/atrial-fibrillation-transplanted---primary.py
+inputModule85:
+  class: File
+  path: python/atrial-fibrillation-pericardiectomy---primary.py
+inputModule86:
+  class: File
+  path: python/atrial-fibrillation-septation---primary.py
+inputModule87:
+  class: File
+  path: python/atrial-fibrillation-apparatus---primary.py
+inputModule88:
+  class: File
+  path: python/biopsy-atrial-fibrillation---primary.py
+inputModule89:
+  class: File
+  path: python/atrial-fibrillation-cardiotachygraphy---primary.py
+inputModule90:
+  class: File
+  path: python/atrial-fibrillation-creation---primary.py
+inputModule91:
+  class: File
+  path: python/intravenous-atrial-fibrillation---primary.py
+inputModule92:
+  class: File
+  path: python/atrial-fibrillation-assist---primary.py
+inputModule93:
+  class: File
+  path: python/atrial-fibrillation-lesion---primary.py
+inputModule94:
+  class: File
+  path: python/atrial-fibrillation-endarterectomy---primary.py
+inputModule95:
+  class: File
+  path: python/atrial-fibrillation-inspection---primary.py
+inputModule96:
+  class: File
+  path: python/atrial-fibrillation-mammary---primary.py
+inputModule97:
+  class: File
+  path: python/atrial-fibrillation-malformation---primary.py
+inputModule98:
+  class: File
+  path: python/atrial-fibrillation-method---primary.py
+inputModule99:
+  class: File
+  path: python/atrial-fibrillation-pulmon---primary.py
+inputModule100:
+  class: File
+  path: python/valvuloplasty-atrial-fibrillation---primary.py
+inputModule101:
+  class: File
+  path: python/atrial-fibrillation-chest---primary.py
+inputModule102:
+  class: File
+  path: python/atrial-fibrillation-revascularisation---primary.py
+inputModule103:
+  class: File
+  path: python/arteriovenous-atrial-fibrillation---primary.py
+inputModule104:
+  class: File
+  path: python/atrial-fibrillation-myectomy---primary.py
+inputModule105:
+  class: File
+  path: python/atrial-fibrillation-exploration---primary.py
+inputModule106:
+  class: File
+  path: python/atrial-fibrillation-drainage---primary.py
+inputModule107:
+  class: File
+  path: python/atrial-fibrillation-bridge---primary.py
+inputModule108:
+  class: File
+  path: python/atrial-fibrillation-tendineae---primary.py
+inputModule109:
+  class: File
+  path: python/sequential-atrial-fibrillation---primary.py
+inputModule110:
+  class: File
+  path: python/atrial-fibrillation-pulsation---primary.py
+inputModule111:
+  class: File
+  path: python/atrial-fibrillation-infundibulectomy---primary.py
+inputModule112:
+  class: File
+  path: python/annuloplasty-atrial-fibrillation---primary.py
+inputModule113:
+  class: File
+  path: python/coronary-atrial-fibrillation---primary.py
+inputModule114:
+  class: File
+  path: python/atrial-fibrillation-takedown---primary.py
+inputModule115:
+  class: File
+  path: python/cardiomyoplasty-atrial-fibrillation---primary.py
+inputModule116:
+  class: File
+  path: python/atrial-fibrillation-letter---primary.py
+inputModule117:
+  class: File
+  path: python/atrial-fibrillation-invite---primary.py
+inputModule118:
+  class: File
+  path: python/atrial-fibrillation-history---primary.py
+inputModule119:
+  class: File
+  path: python/atrial-fibrillation-monitoring---primary.py
+inputModule120:
+  class: File
+  path: python/atrial-fibrillation-extremity---primary.py
+inputModule121:
+  class: File
+  path: python/atrial-fibrillation-revision---primary.py
+inputModule122:
+  class: File
+  path: python/atrial-fibrillation-tissue---primary.py
+inputModule123:
+  class: File
+  path: python/atrial-fibrillation-balloon---primary.py
+inputModule124:
+  class: File
+  path: python/correct-atrial-fibrillation---primary.py
+inputModule125:
+  class: File
+  path: python/atrial-fibrillation-sinus---primary.py
+inputModule126:
+  class: File
+  path: python/truncal-atrial-fibrillation---primary.py
+inputModule127:
+  class: File
+  path: python/output-cases.py
